@@ -1,0 +1,7 @@
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01\MBKS_Galkin_01\bin\Debug\MBKS_Galkin_01.exe.config
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01_console\MBKS_Galkin_01\bin\Debug\MBKS_Galkin_01.exe.config
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01_console\MBKS_Galkin_01\bin\Debug\MBKS_Galkin_01.exe
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01_console\MBKS_Galkin_01\bin\Debug\MBKS_Galkin_01.pdb
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01_console\MBKS_Galkin_01\obj\Debug\MBKS_Galkin_01.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01_console\MBKS_Galkin_01\obj\Debug\MBKS_Galkin_01.exe
+C:\Users\rohas\Google Диск\Проги\МБКС\MBKS_Galkin_01_console\MBKS_Galkin_01\obj\Debug\MBKS_Galkin_01.pdb
